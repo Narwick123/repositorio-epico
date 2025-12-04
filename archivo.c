@@ -3,6 +3,7 @@
 int main (){
 
 printf("Extranio todos esos jueves");
-prinft("Te kierooo");
+printf("Te kierooo");
+
     return 0;
 }
