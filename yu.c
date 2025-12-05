@@ -116,8 +116,11 @@ int main() {
             printf("El resultado es: %.2f\n", resultado);
             break;
 
-        case 2: printf("Aquí irían las conversiones de masa...\n"); break;
-        case 3: printf("Aquí irían las conversiones de tiempo...\n"); break;
+        case 2: printf("Aquí irían las conversiones de masa...\n"); 
+        break;
+        case 3: 
+        printf("Aquí irían las conversiones de tiempoño...\n"); 
+        break;  
         case 4: printf("Aquí irían las conversiones de temperatura...\n"); break;
         case 5: printf("Aquí irían las conversiones de velocidad...\n"); break;
         case 6: printf("Aquí irían las conversiones de volumen...\n"); break;
